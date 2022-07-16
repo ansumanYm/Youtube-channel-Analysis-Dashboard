@@ -9,11 +9,12 @@ An interactive dashboard - Analyzing trends and statistics of Most popular `Data
 
 ## Project Walkthrough
 1. Choosing YouTube Channels
-2. Using YouTube API: To collect JSON File
+2. Using `YouTube API`: To collect JSON File
 3. ETL of JSON Data.
-4. EDA and Data Viz using Plotly Express and Seaborn.
-5. Sentiment analysis and Viz of YouTube Comments.
-6. Dashboard building using Dash and Plotly Express.
+4. EDA and Data Viz using `Plotly Express` and `Seaborn`.
+5. Sentiment analysis and Viz of `YouTube Comments`.
+6. `Dashboard` building using `Dash` and `Plotly Express`.
+7. `Deploying` app on Web with `Heroku`.
 
 
 ## Choosing YouTube Channels
