@@ -66,7 +66,7 @@ request = youtube.channels().list(
     part="snippet,contentDetails,statistics",
     forUsername="sentdex"  # username of youtube channels we want to Analyze.
 )
-response1 = request.execute()
+response = request.execute()
 
 # Prettify JSON using JSON function provided by IPython.Display module
 JSON(response1)
