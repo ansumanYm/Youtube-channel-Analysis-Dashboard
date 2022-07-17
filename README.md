@@ -69,7 +69,7 @@ request = youtube.channels().list(
 response = request.execute()
 
 # Prettify JSON using JSON function provided by IPython.Display module
-JSON(response1)
+JSON(response)
 ```
 
 ETL of JSON Data.
